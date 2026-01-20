@@ -1,2 +1,2 @@
-# AppliedEconomics
+# Economia Applicata
 Raccolta di analisi statistiche ed econometriche in Python
