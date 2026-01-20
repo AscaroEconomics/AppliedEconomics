@@ -1,16 +1,14 @@
 # Economia applicata in Python
 
-Questa repository raccoglie i notebook Jupyter utilizzati negli articoli
-del mio blog su Substack dedicato all’economia applicata.
+Questa repository raccoglie i le analisi effettuate per la realizzazione degli articoli articoli pubblicati sul mio profilo Substack dedicato all’economia applicata.
 
-Ogni notebook contiene:
-- importazione e analisi dei dati
-- stima di modelli econometrici
-- interpretazione dei risultati
-
-## Contenuti
-- Regressione lineare semplice (wage1, Wooldridge)
+In particolare, all'interno delle sotto-cartelle sono visualizzabili i Jupiter Notebook (cartella notebook) con il codice utilizzato per le varie analisi e, quando necessario, i dati utilizzati nelle stesse (cartella dati).
 
 L’obiettivo è esplorare se e come i modelli teorici trovino applicazione
 nei dati reali.
+
+## Contenuti
+- Regressione Lineare e OLS: un'applicazione pratica.
+
+
 
