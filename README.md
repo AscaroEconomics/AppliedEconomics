@@ -1,6 +1,6 @@
 # Economia applicata in Python
 
-Questa repository raccoglie i le analisi effettuate per la realizzazione degli articoli articoli pubblicati sul mio profilo Substack dedicato all’economia applicata.
+Questa repository raccoglie le analisi effettuate per la realizzazione degli articoli pubblicati sul mio profilo Substack dedicato all’economia applicata.
 
 In particolare, all'interno delle sotto-cartelle sono visualizzabili i Jupiter Notebook (cartella notebook) con il codice utilizzato per le varie analisi e, quando necessario, i dati utilizzati nelle stesse (cartella dati).
 
